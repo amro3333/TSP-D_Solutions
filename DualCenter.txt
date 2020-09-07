@@ -70,3 +70,8 @@ DualCenter-87-n75	75	1385.58
 DualCenter-88-n75	75	1706.96
 DualCenter-89-n75	75	1406.09
 DualCenter-90-n75	75	1361.27
+DualCenter-91-n100	100	1,731.15
+DualCenter-92-n100	100	1,597.13
+DualCenter-93-n100	100	1,691.51
+DualCenter-94-n100	100	1,530.28
+DualCenter-95-n100	100	1,732.72
