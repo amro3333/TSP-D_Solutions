@@ -8,5 +8,5 @@ Agatz, N., Bouman, P., Schmidt, M., 2018. Optimization Approaches for the Travel
 
 Bouman, P., Agatz N., Schmidt, M., 2018.  Instances for the TSP with drone (and some solutions).  https://doi.org/10.5281/zenodo.1204676
 
-El-Adle, A.M., Ghoniem, A. and Haouari, M., 2021. TO BE UPDATED. 
-
+To cite this article:
+Amro M. El-Adle, Ahmed Ghoniem & Mohamed Haouari (2021) Parcel delivery by vehicle and drone, Journal of the Operational Research Society, 72:2, 398-416, DOI: 10.1080/01605682.2019.1671156
